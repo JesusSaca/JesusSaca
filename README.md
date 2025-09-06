@@ -1,18 +1,15 @@
 # 💫 Jesús Alexis Saca Vásquez
 
 <img alt="Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand%20Wave.gif" width='40' align="left"/><h2>¡Hola! Soy Jesús</h2>
-
-### 👨🏻‍💻 &nbsp;Sobre Mí
-
-💡 &nbsp;Me apasiona explorar nuevas tecnologías y desarrollar soluciones de software innovadoras.\
-🎓 &nbsp;Actualmente estoy estudiando Ingeniería en Computación e Informática en la Universidad Nacional Pedro Ruiz Gallo.\
-🌱 &nbsp;Me estoy especializando en Business Intelligence, análisis de datos y programación de bases de datos.\
-🏆 &nbsp;Recientemente obtuve el primer lugar en el AchiTech Challenge 2025 - Categoría Experto.\
-💼 &nbsp;Busco oportunidades en empresas internacionales especializadas en análisis de datos y BI.\
-💬 &nbsp;No dudes en contactarme para colaboraciones académicas o discusiones técnicas interesantes.\
-✉️ &nbsp;Puedes escribirme a j22.saca@gmail.com. ¡Intentaré responder lo más pronto posible!\
-📍 &nbsp;Ubicado en Lambayeque, Perú.
-
+👨🏻‍💻  Sobre Mí
+🎓  Soy estudiante de Ingeniería en Computación e Informática en la UNPRG.
+💻  Hago páginas web interactivas utilizando HTML, CSS, JavaScript, Bootstrap, React, Tailwind CSS, Figma, SQL, PHP, Git y GitHub.
+✨  Me apasiona construir experiencias digitales modernas, con un enfoque en la usabilidad y el diseño limpio.
+🚀  Busco aplicar mis habilidades para transformar ideas en soluciones web funcionales.
+🏆  Recientemente obtuve el primer lugar en el AchiTech Challenge 2025 - Categoría Experto.
+💬  No dudes en contactarme para colaboraciones académicas o discusiones técnicas interesantes.
+✉️  Puedes escribirme a j22.saca@gmail.com. ¡Intentaré responder lo más pronto posible!
+📍  Ubicado en Lambayeque, Perú.
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Stack Tecnológico
