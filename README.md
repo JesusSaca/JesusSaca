@@ -1,127 +1,114 @@
-<h1 align="center">Hola 👋  soy Orlando / unsimpleDev ✨ </h1> 
+# 💫 Jesús Alexis Saca Vásquez
 
-<p align="left">
-  <a href="https://www.youtube.com/@unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-<a href="https://www.tiktok.com/@unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@unsimpledev" /></a>
-<a href="https://linkedin.com/in/unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
-<a href="https://fb.com/unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="unsimpledev"  /></a>
-<a href = "mailto:unsimpledev@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
-  </p>
-<br>
-<h2>Sobre mi 😃</h2>
-<!--Intro start-->
+<img alt="Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand%20Wave.gif" width='40' align="left"/><h2>¡Hola! Soy Jesús</h2>
 
-<p align="left">
-🎓 INGENIERO EN INFORMÁTICA
+### 👨🏻‍💻 &nbsp;Sobre Mí
 
-🎥 PEQUEÑO CREADOR DE CONTENIDO que transmite sus conocimientos 📚 a través de las redes en base a mucho estudio 😵 y experiencia
+💡 &nbsp;Me apasiona explorar nuevas tecnologías y desarrollar soluciones de software innovadoras.\
+🎓 &nbsp;Actualmente estoy estudiando Ingeniería en Computación e Informática en la Universidad Nacional Pedro Ruiz Gallo.\
+🌱 &nbsp;Me estoy especializando en Business Intelligence, análisis de datos y programación de bases de datos.\
+🏆 &nbsp;Recientemente obtuve el primer lugar en el AchiTech Challenge 2025 - Categoría Experto.\
+💼 &nbsp;Busco oportunidades en empresas internacionales especializadas en análisis de datos y BI.\
+💬 &nbsp;No dudes en contactarme para colaboraciones académicas o discusiones técnicas interesantes.\
+✉️ &nbsp;Puedes escribirme a j22.saca@gmail.com. ¡Intentaré responder lo más pronto posible!\
+📍 &nbsp;Ubicado en Lambayeque, Perú.
 
-💻 unos cuántos años de experiencia en el proceso de desarrollo de software (solo voy a decir más de 15 para no deschavar mi edad 🙈)
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-📝 roles en el ámbito: desarrollador... líder... arquitecto... cofundador... emprendedor... programador freelance... y en un futuro quién sabe ☺️
+### 🛠 &nbsp;Stack Tecnológico
 
-📫 Contacto: **unsimpledev@gmail.com**
-<!--Intro end-->
-  </p>
-<br>
+![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp&logoColor=239120)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat&logo=microsoft-sql-server&logoColor=CC2927)&nbsp;
+![Power BI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat&logo=power-bi&logoColor=F2C811)&nbsp;
+![Excel](https://img.shields.io/badge/-Excel-05122A?style=flat&logo=microsoft-excel&logoColor=217346)&nbsp;
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio&logoColor=5C2D91)&nbsp;
+![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![NetBeans](https://img.shields.io/badge/-NetBeans-05122A?style=flat&logo=apache-netbeans-ide&logoColor=1B6AC6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
-<!--tech stack icons-->
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,c,cs,cpp,java,php,dart,flutter,py,dotnet,css,html,js,nodejs,mysql,sqlite,firebase,gtk,git,github,docker,materialui,postman,eclipse,vscode,bash,linux,ai,ps&perline=12" />
-  </a>
-</p>
-<br>
-<!-------------------------->
-<div id="proyectos">
-<h2 >Algunos proyectos👨🏻‍💻</h2>
+### 🎓 &nbsp;Formación Académica
 
-<table align="left" >
-<tr border="none">
-  <td width="25%" align="center">
-    <p align="center">
-     <a href="https://youtu.be/rISmdhlhOPM" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/smsgateway.webp"   alt="VIDEO" /></a>
-      </p>
-    <p align="center">
-        <a href="https://youtu.be/rISmdhlhOPM" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-      <a href="https://github.com/unsimpledev/ProyectoSMSGateway" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
-    </p>       
-</td>
-<td width="25%" align="center">
-    <p align="center">
-     <a href="https://youtu.be/fiUkA2OZQjs" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/notifandroid.webp"   alt="VIDEO" /></a>
-      </p>
-    <p align="center">
-        <a href="https://youtu.be/fiUkA2OZQjs" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-      <a href="https://github.com/unsimpledev/ProyectoNotificaciones" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
-    </p>       
-</td>
-  
-  <td width="25%" align="center">
-    <p align="center">
-     <a href="https://youtu.be/py31Y1Ku4Es" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/chatgptapp.webp"   alt="VIDEO" /></a>
-      </p>
-    <p align="center">
-        <a href="https://youtu.be/py31Y1Ku4Es" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-      <a href="https://github.com/unsimpledev/MiChatGPT" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
-    </p>       
-</td>
+🏛️ **Universidad Nacional Pedro Ruiz Gallo**\
+📚 Ingeniería en Computación e Informática - 5to Ciclo\
+📍 Lambayeque, Perú
 
-   <td width="25%" align="center">
-    <p align="center">
-     <a href="https://youtu.be/FbQtooM3UIs" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/traductorchatgpt.webp"   alt="VIDEO" /></a>
-      </p>
-    <p align="center">
-        <a href="https://youtu.be/FbQtooM3UIs" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-      <a href="https://github.com/unsimpledev/MiTraductor" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
-    </p>       
-</td>
-  
-</tr>
-</table>
-  </div>
-<br>
-<br><br>
-<br>
-<br><br><br>
-<br><br>
+**Cursos Destacados:**
+- Fundamentos de Programación
+- Programación Orientada a Objetos (POO)
+- Desarrollo de Aplicaciones con Interfaz Gráfica
+- Diseño de Base de Datos
+- Programación de Base de Datos
+- Metodologías de Desarrollo de Sistemas
 
+### 🏆 &nbsp;Proyectos Destacados
 
-<h2>GitHub :octocat:</h2>
-<!--- stats & Trophy (start) -->
+#### 🥇 **AchiTech Challenge 2025 - Primer Lugar**
+- **Categoría:** Experto
+- **Logro:** Primer lugar en concurso de programación universitario
+- **Skills:** Algoritmos avanzados, trabajo en equipo, resolución de problemas
+
+#### 📊 **Sistema OLAP de Análisis de Datos**
+- **Descripción:** Sistema completo de Business Intelligence con dashboards interactivos
+- **Tecnologías:** SQL Server, Excel, Visual Studio, Integration Services
+- **Características:** Diseño estrella, análisis avanzado de datos, reportes automatizados
+
+#### 💻 **Proyectos Académicos de Software**
+- **Descripción:** Desarrollo de aplicaciones como productos acreditables finales
+- **Metodologías:** Aplicación de metodologías de desarrollo y buenas prácticas
+- **Tecnologías:** C#, Bases de Datos, Interfaces Gráficas
+
+### 📊 &nbsp;Estadísticas de GitHub
+
 <p align="center">
-  <!--- stats (start) -->
-<table align="left">
-<tr border="none">
-<td width="60%" align="center">
+<a href="https://github.com/tu-usuario-github">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tu-usuario-github&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tu-usuario-github&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
-<!--  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=unsimpledev&theme=dark&show_icons=true&count_private=true" />
-  <br></br> -->
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=unsimpledev&theme=dark&hide_border=false" /> 
-</td>
+### 💪 &nbsp;Habilidades Blandas
 
-<td width="40%" align="center">
+🤝 &nbsp;**Trabajo en equipo** - Colaboración efectiva en proyectos académicos\
+🧠 &nbsp;**Autodidacta** - Aprendizaje continuo de nuevas tecnologías\
+💪 &nbsp;**Resiliencia** - Perseverancia ante desafíos técnicos\
+🎯 &nbsp;**Compromiso** - Dedicación total en cada proyecto\
+🤲 &nbsp;**Solidaridad** - Apoyo constante a compañeros de estudios\
+🙏 &nbsp;**Respeto** - Valoración de diferentes perspectivas y opiniones
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=unsimpledev&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+### 🎯 &nbsp;Objetivos Profesionales
 
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
+🌍 Desarrollar mi carrera profesional en **empresas internacionales** especializadas en:\
+📈 **Business Intelligence** y análisis de datos\
+💾 **Programación de bases de datos**\
+🚀 **Desarrollo de software** con enfoque en soluciones escalables
 
-<!--- trophy (start) -->
-<div align=left>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=unsimpledev&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-<!--- trophy (start) -->
+### 📫 &nbsp;Conecta Conmigo
 
+<p align="center">
+<a href="mailto:j22.saca@gmail.com"><img src="https://img.shields.io/badge/-j22.saca@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/tu-linkedin"><img src="https://img.shields.io/badge/-Jesús%20Saca-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://github.com/tu-usuario-github"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github"/></a>
+</p>
 
-</p>        
-<!--- stats (end) -->
+---
+
+### 🌟 &nbsp;Datos Curiosos
+
+- 🏆 Campeón del AchiTech Challenge 2025
+- 📊 Especialista en sistemas OLAP y Business Intelligence  
+- 🎓 Estudiante destacado en análisis de datos
+- 💻 Desarrollador de software con enfoque en bases de datos
+- 🌱 En constante aprendizaje de nuevas tecnologías
+
+---
+
+⭐️ From [Jesús Saca](https://github.com/tu-usuario-github)
+
+*"El conocimiento compartido es conocimiento multiplicado"* 💫
