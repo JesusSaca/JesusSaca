@@ -8,8 +8,6 @@
 
 🎓 Soy estudiante de Ingeniería en Computación e Informática en la UNPRG. Tengo sólidos conocimientos en análisis de datos, desarrollo de software y programación de bases de datos. Me destaco por mi compromiso académico, capacidad autodidacta y habilidades técnicas, siempre orientado al trabajo en equipo con enfoque en Business Intelligence.
 
-🚀 Busco desarrollar mi carrera profesional en empresas internacionales especializadas en análisis de datos y programación de bases de datos. Me interesa especialmente el área de Business Intelligence y desarrollo de software que permitan crecimiento técnico completo. No dudes en contactarme para colaboraciones académicas desde Lambayeque, Perú.
-
 <h2>🛠 Tecnologías y Herramientas</h2>
 
 <h3>💻 Lenguajes de Programación</h3>
