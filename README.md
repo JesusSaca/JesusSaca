@@ -4,8 +4,6 @@
 
 <h2>👨🏻‍💻 Sobre Mí</h2>
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
 🎓 Soy estudiante de Ingeniería en Computación e Informática en la UNPRG. Tengo sólidos conocimientos en análisis de datos, desarrollo de software y programación de bases de datos. Me destaco por mi compromiso académico, capacidad autodidacta y habilidades técnicas, siempre orientado al trabajo en equipo con enfoque en Business Intelligence.
 
 <h2>🛠 Tecnologías y Herramientas</h2>
